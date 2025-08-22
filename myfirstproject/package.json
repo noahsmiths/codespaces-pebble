@@ -7,7 +7,7 @@
   "dependencies": {},
   "pebble": {
     "displayName": "myfirstproject",
-    "uuid": "00000000-0000-0000-0000-000000000000",
+    "uuid": "00000000-0000-0000-0000-000000000001",
     "sdkVersion": "3",
     "enableMultiJS": true,
     "targetPlatforms": [
