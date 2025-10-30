@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Pebble",
+            "includePath": [
+                "~/.pebble-sdk/SDKs/current/sdk-core/pebble/aplite/include",
+                "~/.pebble-sdk/SDKs/current/sdk-core/pebble/basalt/include",
+                "~/.pebble-sdk/SDKs/current/sdk-core/pebble/chalk/include",
+                "~/.pebble-sdk/SDKs/current/sdk-core/pebble/diorite/include",
+                "~/.pebble-sdk/SDKs/current/sdk-core/pebble/emery/include",
+                "~/.pebble-sdk/SDKs/current/sdk-core/pebble/common/include",
+                "${workspaceFolder}/**",
+                "${default}"
+            ],
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17"
+        }
+    ],
+    "version": 4
+}
